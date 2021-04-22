@@ -1,4 +1,4 @@
-package Assignment4;
+package laxmiCSC123Sp21Ass4;
 public class Student
 {
 	private String name;

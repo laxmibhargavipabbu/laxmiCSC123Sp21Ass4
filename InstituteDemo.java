@@ -1,4 +1,4 @@
-package Assignment4;
+package laxmiCSC123Sp21Ass4;
 import java.util.Random;
 import java.util.Scanner;
 
